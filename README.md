@@ -5,7 +5,7 @@
 </div>
 
 <div id="badges">
-  <a href="www.linkedin.com/in/parichat-preedeewong-92226531b">
+  <a href="https://www.linkedin.com/in/parichat-preedeewong-92226531b/?trk=public-profile-join-page">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="parichat.preedeewong@gmail.com">
