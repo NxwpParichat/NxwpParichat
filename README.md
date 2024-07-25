@@ -10,6 +10,8 @@
   </a>
   <a href="parichat.preedeewong@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=email&logoColor=white" alt="Email Badge"/>
-  </a>
+  </a> 
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=NxwpParichat&style=flat-square&color=blue" alt="account counter"/>
 </div>
-<img src="https://komarev.com/ghpvc/?username=NxwpParichat&style=flat-square&color=blue" alt="" align="center"/>
+
